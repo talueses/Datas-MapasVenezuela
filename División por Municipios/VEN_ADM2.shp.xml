@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<!-- By @kadaba -->
+<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
+<metadata xml:lang="es"><Esri><CreaDate>20061012</CreaDate><CreaTime>08045500</CreaTime><SyncOnce>TRUE</SyncOnce><MetaID>{E9944EFD-1A3B-4F8F-8D28-FD19A686CD91}</MetaID></Esri><idinfo><citation><citeinfo><onlink Sync="TRUE">\\DTHIELEN\F$\paginaweb\VEN_ADM2</onlink></citeinfo></citation></idinfo><distInfo><distributor><distorTran><onLineSrc><linkage Sync="TRUE">file://\\DTHIELEN\F$\paginaweb\VEN_ADM2</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc></distorTran></distributor></distInfo><dataqual><lineage><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">F:\Cosas de Internet para SIG\Shapefiles\Venezuela\Diversos shapefiles de desconocido\VEN_adm\VEN_ADM2</srcused><date Sync="TRUE">20061012</date><time Sync="TRUE">08045500</time></procstep></lineage></dataqual></metadata>
